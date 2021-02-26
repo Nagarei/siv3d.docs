@@ -450,7 +450,7 @@ void Main()
 
 
 ## 8.13 縦書きでテキストを描画する
-`Font::getVerticalGlyphs()` で縦書き用のグリフを取得できるので、それを使うってテキストの縦書きを実現できます。
+`Font::getVerticalGlyphs()` で縦書き用のグリフを取得できるので、それを使ってテキストの縦書きを実現できます。
 
 ![](https://github.com/Siv3D/siv3d.docs.images/blob/master/tutorial/8/13-0.png?raw=true)
 
